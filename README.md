@@ -6,6 +6,8 @@
       电信202班 欧思毅 3200432049;
       phone number：18827937386;
       qq:2791807480;
+      宿舍305
+      
 <!---
 osywy/osywy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
